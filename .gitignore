@@ -1,0 +1,14 @@
+# Macfile
+.DS_Store
+
+node_modules
+.env
+.nyc_output
+package-lock.json
+.idea
+build
+.DS_Store
+coverage/
+
+yarn-error.log
+.yarn
